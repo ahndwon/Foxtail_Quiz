@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="question_iu">나는 지금 배가 고프다</string> 
+    <string name="question_constraint">컨스트레인트 레이아웃은 뷰 중첩을 해결하는데 도움 된다.</string>
+     <string name="question_life_cycle">onCreate - onResume - onStart 순서로 호출된다.</string>
+     <string name="question_americas">아마존강은 아메리카 대륙에서 가장 긴 강이다.</string> 
+    <string name="question_asia">바이칼 호수는 세계에서 가장 오래되고     가장 깊은 담수호이다.</string>
+
+    <string name="check_answer">정답보냐 ㅉㅉ</string>
+
+    <string name="correct_toast">정답!</string>
+    <string name="incorrect_toast">틀림!</string>
+</resources>
